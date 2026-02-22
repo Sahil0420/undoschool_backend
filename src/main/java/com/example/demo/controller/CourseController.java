@@ -91,7 +91,6 @@ public class CourseController {
             hasFilters = true;
         }
 
-        // age range filters
         // Find courses with greater age 
         if (minAge != null) {
             NumberRangeQuery.Builder ageBuilder = new NumberRangeQuery.Builder().field("minAge");

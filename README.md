@@ -171,13 +171,3 @@ curl -s "http://localhost:8080/api/search/suggest?q=Intro"
   "Introduction to Python Programming"
 ]
 ```
-
----
-
-## Deliverables Checklist
-- [x] All source code and classes written
-- [x] `docker-compose.yml` included and verified
-- [x] `sample-courses.json` with 50 correctly formatted documents
-- [x] Tested search API with mapping, indexing, filtering, pagination, sorting
-- [x] Bonus features: Fuzzy matching on standard searches + Completion Suggestion endpoint mapped to `Course` structure
-- [x] Comprehensive `README.md`
