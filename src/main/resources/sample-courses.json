@@ -1,0 +1,852 @@
+[
+  {
+    "id": "1",
+    "title": "Introduction to Python Programming",
+    "description": "Learn the fundamentals of Python programming from scratch.",
+    "category": "Programming",
+    "type": "COURSE",
+    "gradeRange": "7th-9th",
+    "minAge": 12,
+    "maxAge": 18,
+    "price": 29.99,
+    "nextSessionDate": "2025-06-10T15:00:00Z",
+    "suggest": {
+      "input": [
+        "Introduction to Python Programming"
+      ]
+    }
+  },
+  {
+    "id": "2",
+    "title": "Creative Painting for Kids",
+    "description": "A fun and interactive painting course for young artists.",
+    "category": "Art",
+    "type": "CLUB",
+    "gradeRange": "1st-3rd",
+    "minAge": 6,
+    "maxAge": 12,
+    "price": 19.99,
+    "nextSessionDate": "2025-06-12T10:00:00Z",
+    "suggest": {
+      "input": [
+        "Creative Painting for Kids"
+      ]
+    }
+  },
+  {
+    "id": "3",
+    "title": "Advanced Mathematics",
+    "description": "Deep dive into calculus and linear algebra.",
+    "category": "Math",
+    "type": "COURSE",
+    "gradeRange": "10th-12th",
+    "minAge": 15,
+    "maxAge": 18,
+    "price": 49.99,
+    "nextSessionDate": "2025-06-15T09:00:00Z",
+    "suggest": {
+      "input": [
+        "Advanced Mathematics"
+      ]
+    }
+  },
+  {
+    "id": "4",
+    "title": "Robotics and Arduino",
+    "description": "Build your own robots using Arduino microcontrollers.",
+    "category": "Science",
+    "type": "CLUB",
+    "gradeRange": "7th-9th",
+    "minAge": 12,
+    "maxAge": 18,
+    "price": 59.99,
+    "nextSessionDate": "2025-06-18T14:00:00Z",
+    "suggest": {
+      "input": [
+        "Robotics and Arduino"
+      ]
+    }
+  },
+  {
+    "id": "5",
+    "title": "English Grammar Masterclass",
+    "description": "Master English grammar rules and writing skills.",
+    "category": "Language",
+    "type": "COURSE",
+    "gradeRange": "4th-6th",
+    "minAge": 8,
+    "maxAge": 14,
+    "price": 15.0,
+    "nextSessionDate": "2025-06-20T11:00:00Z",
+    "suggest": {
+      "input": [
+        "English Grammar Masterclass"
+      ]
+    }
+  },
+  {
+    "id": "6",
+    "title": "Web Development Bootcamp",
+    "description": "Full-stack web development covering React and Node.js.",
+    "category": "Programming",
+    "type": "COURSE",
+    "gradeRange": "10th-12th",
+    "minAge": 15,
+    "maxAge": 18,
+    "price": 79.99,
+    "nextSessionDate": "2025-06-22T13:00:00Z",
+    "suggest": {
+      "input": [
+        "Web Development Bootcamp"
+      ]
+    }
+  },
+  {
+    "id": "7",
+    "title": "Digital Photography Basics",
+    "description": "Learn how to use your DSLR camera like a pro.",
+    "category": "Art",
+    "type": "ONE_TIME",
+    "gradeRange": "7th-9th",
+    "minAge": 12,
+    "maxAge": 18,
+    "price": 35.0,
+    "nextSessionDate": "2025-06-25T10:00:00Z",
+    "suggest": {
+      "input": [
+        "Digital Photography Basics"
+      ]
+    }
+  },
+  {
+    "id": "8",
+    "title": "Yoga for Beginners",
+    "description": "A gentle introduction to yoga poses and breathing techniques.",
+    "category": "Health",
+    "type": "CLUB",
+    "gradeRange": "4th-6th",
+    "minAge": 10,
+    "maxAge": 18,
+    "price": 12.5,
+    "nextSessionDate": "2025-06-28T08:00:00Z",
+    "suggest": {
+      "input": [
+        "Yoga for Beginners"
+      ]
+    }
+  },
+  {
+    "id": "9",
+    "title": "Game Development with Unity",
+    "description": "Create your first 3D game using C# and Unity.",
+    "category": "Programming",
+    "type": "COURSE",
+    "gradeRange": "10th-12th",
+    "minAge": 14,
+    "maxAge": 18,
+    "price": 89.99,
+    "nextSessionDate": "2025-07-01T15:00:00Z",
+    "suggest": {
+      "input": [
+        "Game Development with Unity"
+      ]
+    }
+  },
+  {
+    "id": "10",
+    "title": "Basic Chemistry Experiments",
+    "description": "Safe and fun chemistry experiments for middle schoolers.",
+    "category": "Science",
+    "type": "ONE_TIME",
+    "gradeRange": "4th-6th",
+    "minAge": 10,
+    "maxAge": 14,
+    "price": 25.0,
+    "nextSessionDate": "2025-07-03T09:00:00Z",
+    "suggest": {
+      "input": [
+        "Basic Chemistry Experiments"
+      ]
+    }
+  },
+  {
+    "id": "11",
+    "title": "Financial Literacy for Teens",
+    "description": "Learn about budgeting, saving, and investing.",
+    "category": "Finance",
+    "type": "COURSE",
+    "gradeRange": "10th-12th",
+    "minAge": 14,
+    "maxAge": 18,
+    "price": 10.0,
+    "nextSessionDate": "2025-07-05T16:00:00Z",
+    "suggest": {
+      "input": [
+        "Financial Literacy for Teens"
+      ]
+    }
+  },
+  {
+    "id": "12",
+    "title": "Public Speaking Masterclass",
+    "description": "Build confidence and learn to deliver powerful speeches.",
+    "category": "Language",
+    "type": "COURSE",
+    "gradeRange": "7th-9th",
+    "minAge": 12,
+    "maxAge": 18,
+    "price": 40.0,
+    "nextSessionDate": "2025-07-08T11:00:00Z",
+    "suggest": {
+      "input": [
+        "Public Speaking Masterclass"
+      ]
+    }
+  },
+  {
+    "id": "13",
+    "title": "Graphic Design with Canva",
+    "description": "Design stunning posters and social media graphics.",
+    "category": "Art",
+    "type": "CLUB",
+    "gradeRange": "4th-6th",
+    "minAge": 10,
+    "maxAge": 18,
+    "price": 15.99,
+    "nextSessionDate": "2025-07-10T14:00:00Z",
+    "suggest": {
+      "input": [
+        "Graphic Design with Canva"
+      ]
+    }
+  },
+  {
+    "id": "14",
+    "title": "Astronomy 101",
+    "description": "Explore the stars, planets, and galaxies.",
+    "category": "Science",
+    "type": "COURSE",
+    "gradeRange": "4th-6th",
+    "minAge": 8,
+    "maxAge": 18,
+    "price": 20.0,
+    "nextSessionDate": "2025-07-12T18:00:00Z",
+    "suggest": {
+      "input": [
+        "Astronomy 101"
+      ]
+    }
+  },
+  {
+    "id": "15",
+    "title": "Mobile App Design (UI/UX)",
+    "description": "Learn the principles of user interface and experience design.",
+    "category": "Technology",
+    "type": "COURSE",
+    "gradeRange": "10th-12th",
+    "minAge": 15,
+    "maxAge": 18,
+    "price": 55.0,
+    "nextSessionDate": "2025-07-15T10:00:00Z",
+    "suggest": {
+      "input": [
+        "Mobile App Design (UI/UX)"
+      ]
+    }
+  },
+  {
+    "id": "16",
+    "title": "Chess Strategies for Champions",
+    "description": "Improve your chess game with advanced tactics.",
+    "category": "Games",
+    "type": "CLUB",
+    "gradeRange": "4th-6th",
+    "minAge": 8,
+    "maxAge": 18,
+    "price": 18.0,
+    "nextSessionDate": "2025-07-18T09:00:00Z",
+    "suggest": {
+      "input": [
+        "Chess Strategies for Champions"
+      ]
+    }
+  },
+  {
+    "id": "17",
+    "title": "Cooking Healthy Meals",
+    "description": "Learn to cook nutritious and delicious meals.",
+    "category": "Health",
+    "type": "ONE_TIME",
+    "gradeRange": "7th-9th",
+    "minAge": 12,
+    "maxAge": 18,
+    "price": 30.0,
+    "nextSessionDate": "2025-07-20T12:00:00Z",
+    "suggest": {
+      "input": [
+        "Cooking Healthy Meals"
+      ]
+    }
+  },
+  {
+    "id": "18",
+    "title": "Intro to Artificial Intelligence",
+    "description": "Understand how AI and machine learning work.",
+    "category": "Technology",
+    "type": "COURSE",
+    "gradeRange": "10th-12th",
+    "minAge": 16,
+    "maxAge": 18,
+    "price": 65.0,
+    "nextSessionDate": "2025-07-22T15:00:00Z",
+    "suggest": {
+      "input": [
+        "Intro to Artificial Intelligence"
+      ]
+    }
+  },
+  {
+    "id": "19",
+    "title": "Piano Basics for Kids",
+    "description": "Start your musical journey with basic piano lessons.",
+    "category": "Music",
+    "type": "COURSE",
+    "gradeRange": "1st-3rd",
+    "minAge": 6,
+    "maxAge": 12,
+    "price": 45.0,
+    "nextSessionDate": "2025-07-25T10:00:00Z",
+    "suggest": {
+      "input": [
+        "Piano Basics for Kids"
+      ]
+    }
+  },
+  {
+    "id": "20",
+    "title": "Spanish for Travelers",
+    "description": "Learn essential Spanish phrases for your next trip.",
+    "category": "Language",
+    "type": "ONE_TIME",
+    "gradeRange": "4th-6th",
+    "minAge": 10,
+    "maxAge": 18,
+    "price": 22.0,
+    "nextSessionDate": "2025-07-28T13:00:00Z",
+    "suggest": {
+      "input": [
+        "Spanish for Travelers"
+      ]
+    }
+  },
+  {
+    "id": "21",
+    "title": "Video Editing with Premiere Pro",
+    "description": "Edit videos like a professional YouTuber.",
+    "category": "Technology",
+    "type": "COURSE",
+    "gradeRange": "10th-12th",
+    "minAge": 14,
+    "maxAge": 18,
+    "price": 70.0,
+    "nextSessionDate": "2025-08-01T14:00:00Z",
+    "suggest": {
+      "input": [
+        "Video Editing with Premiere Pro"
+      ]
+    }
+  },
+  {
+    "id": "22",
+    "title": "Blogging and Content Creation",
+    "description": "Build an audience through writing and SEO.",
+    "category": "Language",
+    "type": "CLUB",
+    "gradeRange": "7th-9th",
+    "minAge": 13,
+    "maxAge": 18,
+    "price": 12.99,
+    "nextSessionDate": "2025-08-03T11:00:00Z",
+    "suggest": {
+      "input": [
+        "Blogging and Content Creation"
+      ]
+    }
+  },
+  {
+    "id": "23",
+    "title": "Sustainability and the Environment",
+    "description": "Learn how to live a more eco-friendly lifestyle.",
+    "category": "Science",
+    "type": "ONE_TIME",
+    "gradeRange": "4th-6th",
+    "minAge": 8,
+    "maxAge": 18,
+    "price": 5.0,
+    "nextSessionDate": "2025-08-05T16:00:00Z",
+    "suggest": {
+      "input": [
+        "Sustainability and the Environment"
+      ]
+    }
+  },
+  {
+    "id": "24",
+    "title": "Classical Guitar Lessons",
+    "description": "Master the art of classical guitar playing.",
+    "category": "Music",
+    "type": "COURSE",
+    "gradeRange": "7th-9th",
+    "minAge": 12,
+    "maxAge": 18,
+    "price": 50.0,
+    "nextSessionDate": "2025-08-08T10:00:00Z",
+    "suggest": {
+      "input": [
+        "Classical Guitar Lessons"
+      ]
+    }
+  },
+  {
+    "id": "25",
+    "title": "3D Modeling with Blender",
+    "description": "Create 3D characters and environments.",
+    "category": "Technology",
+    "type": "COURSE",
+    "gradeRange": "10th-12th",
+    "minAge": 14,
+    "maxAge": 18,
+    "price": 45.0,
+    "nextSessionDate": "2025-08-10T15:00:00Z",
+    "suggest": {
+      "input": [
+        "3D Modeling with Blender"
+      ]
+    }
+  },
+  {
+    "id": "26",
+    "title": "Creative Writing Workshop",
+    "description": "Unleash your imagination through storytelling.",
+    "category": "Language",
+    "type": "CLUB",
+    "gradeRange": "4th-6th",
+    "minAge": 10,
+    "maxAge": 15,
+    "price": 18.0,
+    "nextSessionDate": "2025-08-12T09:00:00Z",
+    "suggest": {
+      "input": [
+        "Creative Writing Workshop"
+      ]
+    }
+  },
+  {
+    "id": "27",
+    "title": "Cybersecurity Basics",
+    "description": "Protect yourself and your data online.",
+    "category": "Technology",
+    "type": "COURSE",
+    "gradeRange": "7th-9th",
+    "minAge": 12,
+    "maxAge": 18,
+    "price": 39.99,
+    "nextSessionDate": "2025-08-15T14:00:00Z",
+    "suggest": {
+      "input": [
+        "Cybersecurity Basics"
+      ]
+    }
+  },
+  {
+    "id": "28",
+    "title": "Drawing Manga Characters",
+    "description": "Learn to draw Japanese-style characters.",
+    "category": "Art",
+    "type": "ONE_TIME",
+    "gradeRange": "4th-6th",
+    "minAge": 10,
+    "maxAge": 18,
+    "price": 24.99,
+    "nextSessionDate": "2025-08-18T10:00:00Z",
+    "suggest": {
+      "input": [
+        "Drawing Manga Characters"
+      ]
+    }
+  },
+  {
+    "id": "29",
+    "title": "Physics in the Real World",
+    "description": "Understand the laws of motion and energy.",
+    "category": "Science",
+    "type": "COURSE",
+    "gradeRange": "10th-12th",
+    "minAge": 14,
+    "maxAge": 18,
+    "price": 32.0,
+    "nextSessionDate": "2025-08-20T11:00:00Z",
+    "suggest": {
+      "input": [
+        "Physics in the Real World"
+      ]
+    }
+  },
+  {
+    "id": "30",
+    "title": "Investing for Beginners",
+    "description": "A simple guide to the stock market.",
+    "category": "Finance",
+    "type": "COURSE",
+    "gradeRange": "10th-12th",
+    "minAge": 16,
+    "maxAge": 18,
+    "price": 15.0,
+    "nextSessionDate": "2025-08-22T16:00:00Z",
+    "suggest": {
+      "input": [
+        "Investing for Beginners"
+      ]
+    }
+  },
+  {
+    "id": "31",
+    "title": "Stop-Motion Animation",
+    "description": "Create movies using clay and cameras.",
+    "category": "Art",
+    "type": "CLUB",
+    "gradeRange": "4th-6th",
+    "minAge": 8,
+    "maxAge": 14,
+    "price": 28.0,
+    "nextSessionDate": "2025-08-25T10:00:00Z",
+    "suggest": {
+      "input": [
+        "Stop-Motion Animation"
+      ]
+    }
+  },
+  {
+    "id": "32",
+    "title": "Java Programming Mastery",
+    "description": "Deep dive into object-oriented programming with Java.",
+    "category": "Programming",
+    "type": "COURSE",
+    "gradeRange": "10th-12th",
+    "minAge": 15,
+    "maxAge": 18,
+    "price": 65.0,
+    "nextSessionDate": "2025-08-28T09:00:00Z",
+    "suggest": {
+      "input": [
+        "Java Programming Mastery"
+      ]
+    }
+  },
+  {
+    "id": "33",
+    "title": "Modern Dance for Teens",
+    "description": "Express yourself through contemporary dance.",
+    "category": "Art",
+    "type": "CLUB",
+    "gradeRange": "7th-9th",
+    "minAge": 13,
+    "maxAge": 18,
+    "price": 35.0,
+    "nextSessionDate": "2025-09-01T14:00:00Z",
+    "suggest": {
+      "input": [
+        "Modern Dance for Teens"
+      ]
+    }
+  },
+  {
+    "id": "34",
+    "title": "Public Relations Fundamentals",
+    "description": "Learn how to manage brand reputations.",
+    "category": "Business",
+    "type": "COURSE",
+    "gradeRange": "10th-12th",
+    "minAge": 16,
+    "maxAge": 18,
+    "price": 42.0,
+    "nextSessionDate": "2025-09-03T11:00:00Z",
+    "suggest": {
+      "input": [
+        "Public Relations Fundamentals"
+      ]
+    }
+  },
+  {
+    "id": "35",
+    "title": "Gardening and Botany",
+    "description": "Learn to grow your own food and understand plants.",
+    "category": "Science",
+    "type": "CLUB",
+    "gradeRange": "4th-6th",
+    "minAge": 8,
+    "maxAge": 18,
+    "price": 12.0,
+    "nextSessionDate": "2025-09-05T09:00:00Z",
+    "suggest": {
+      "input": [
+        "Gardening and Botany"
+      ]
+    }
+  },
+  {
+    "id": "36",
+    "title": "Electronic Music Production",
+    "description": "Create beats and tracks using Ableton Live.",
+    "category": "Music",
+    "type": "COURSE",
+    "gradeRange": "10th-12th",
+    "minAge": 14,
+    "maxAge": 18,
+    "price": 55.0,
+    "nextSessionDate": "2025-09-08T15:00:00Z",
+    "suggest": {
+      "input": [
+        "Electronic Music Production"
+      ]
+    }
+  },
+  {
+    "id": "37",
+    "title": "Entrepreneurship for Kids",
+    "description": "Start your first small business.",
+    "category": "Business",
+    "type": "ONE_TIME",
+    "gradeRange": "4th-6th",
+    "minAge": 10,
+    "maxAge": 15,
+    "price": 10.0,
+    "nextSessionDate": "2025-09-10T10:00:00Z",
+    "suggest": {
+      "input": [
+        "Entrepreneurship for Kids"
+      ]
+    }
+  },
+  {
+    "id": "38",
+    "title": "Ancient History Explorers",
+    "description": "Journey through Egypt, Rome, and Greece.",
+    "category": "Science",
+    "type": "COURSE",
+    "gradeRange": "4th-6th",
+    "minAge": 8,
+    "maxAge": 14,
+    "price": 14.0,
+    "nextSessionDate": "2025-09-12T13:00:00Z",
+    "suggest": {
+      "input": [
+        "Ancient History Explorers"
+      ]
+    }
+  },
+  {
+    "id": "39",
+    "title": "Advanced Excel for Students",
+    "description": "Master spreadsheets and data visualization.",
+    "category": "Technology",
+    "type": "ONE_TIME",
+    "gradeRange": "10th-12th",
+    "minAge": 15,
+    "maxAge": 18,
+    "price": 25.0,
+    "nextSessionDate": "2025-09-15T14:00:00Z",
+    "suggest": {
+      "input": [
+        "Advanced Excel for Students"
+      ]
+    }
+  },
+  {
+    "id": "40",
+    "title": "Basic First Aid Training",
+    "description": "Essential life-saving skills for everyone.",
+    "category": "Health",
+    "type": "ONE_TIME",
+    "gradeRange": "7th-9th",
+    "minAge": 12,
+    "maxAge": 18,
+    "price": 20.0,
+    "nextSessionDate": "2025-09-18T09:00:00Z",
+    "suggest": {
+      "input": [
+        "Basic First Aid Training"
+      ]
+    }
+  },
+  {
+    "id": "41",
+    "title": "App Development with Swift",
+    "description": "Build iOS apps for iPhone and iPad.",
+    "category": "Programming",
+    "type": "COURSE",
+    "gradeRange": "10th-12th",
+    "minAge": 15,
+    "maxAge": 18,
+    "price": 75.0,
+    "nextSessionDate": "2025-09-20T15:00:00Z",
+    "suggest": {
+      "input": [
+        "App Development with Swift"
+      ]
+    }
+  },
+  {
+    "id": "42",
+    "title": "Fashion Design and Sketching",
+    "description": "Bring your clothing designs to life on paper.",
+    "category": "Art",
+    "type": "COURSE",
+    "gradeRange": "7th-9th",
+    "minAge": 12,
+    "maxAge": 18,
+    "price": 40.0,
+    "nextSessionDate": "2025-09-22T10:00:00Z",
+    "suggest": {
+      "input": [
+        "Fashion Design and Sketching"
+      ]
+    }
+  },
+  {
+    "id": "43",
+    "title": "Introduction to Psychology",
+    "description": "Explore the human mind and behavior.",
+    "category": "Science",
+    "type": "COURSE",
+    "gradeRange": "10th-12th",
+    "minAge": 16,
+    "maxAge": 18,
+    "price": 30.0,
+    "nextSessionDate": "2025-09-25T11:00:00Z",
+    "suggest": {
+      "input": [
+        "Introduction to Psychology"
+      ]
+    }
+  },
+  {
+    "id": "44",
+    "title": "Vocal Training and Singing",
+    "description": "Improve your voice and performance skills.",
+    "category": "Music",
+    "type": "CLUB",
+    "gradeRange": "4th-6th",
+    "minAge": 10,
+    "maxAge": 18,
+    "price": 45.0,
+    "nextSessionDate": "2025-09-28T14:00:00Z",
+    "suggest": {
+      "input": [
+        "Vocal Training and Singing"
+      ]
+    }
+  },
+  {
+    "id": "45",
+    "title": "Social Media Marketing",
+    "description": "Learn how to build a brand on Instagram and TikTok.",
+    "category": "Business",
+    "type": "COURSE",
+    "gradeRange": "10th-12th",
+    "minAge": 14,
+    "maxAge": 18,
+    "price": 29.99,
+    "nextSessionDate": "2025-10-01T13:00:00Z",
+    "suggest": {
+      "input": [
+        "Social Media Marketing"
+      ]
+    }
+  },
+  {
+    "id": "46",
+    "title": "Data Science for Beginners",
+    "description": "Learn to analyze data using Python.",
+    "category": "Programming",
+    "type": "COURSE",
+    "gradeRange": "10th-12th",
+    "minAge": 16,
+    "maxAge": 18,
+    "price": 60.0,
+    "nextSessionDate": "2025-10-03T15:00:00Z",
+    "suggest": {
+      "input": [
+        "Data Science for Beginners"
+      ]
+    }
+  },
+  {
+    "id": "47",
+    "title": "Baking Pastries and Cakes",
+    "description": "The science and art of French pastry.",
+    "category": "Health",
+    "type": "ONE_TIME",
+    "gradeRange": "7th-9th",
+    "minAge": 12,
+    "maxAge": 18,
+    "price": 38.0,
+    "nextSessionDate": "2025-10-05T10:00:00Z",
+    "suggest": {
+      "input": [
+        "Baking Pastries and Cakes"
+      ]
+    }
+  },
+  {
+    "id": "48",
+    "title": "Philosophy for Teens",
+    "description": "Ask big questions and explore critical thinking.",
+    "category": "Language",
+    "type": "CLUB",
+    "gradeRange": "10th-12th",
+    "minAge": 14,
+    "maxAge": 18,
+    "price": 15.0,
+    "nextSessionDate": "2025-10-08T16:00:00Z",
+    "suggest": {
+      "input": [
+        "Philosophy for Teens"
+      ]
+    }
+  },
+  {
+    "id": "49",
+    "title": "Machine Learning with Scratch",
+    "description": "AI concepts simplified for younger learners.",
+    "category": "Technology",
+    "type": "COURSE",
+    "gradeRange": "4th-6th",
+    "minAge": 10,
+    "maxAge": 14,
+    "price": 20.0,
+    "nextSessionDate": "2025-10-10T09:00:00Z",
+    "suggest": {
+      "input": [
+        "Machine Learning with Scratch"
+      ]
+    }
+  },
+  {
+    "id": "50",
+    "title": "World Geography Quiz Master",
+    "description": "Learn about every country and culture on Earth.",
+    "category": "Science",
+    "type": "ONE_TIME",
+    "gradeRange": "4th-6th",
+    "minAge": 8,
+    "maxAge": 18,
+    "price": 8.0,
+    "nextSessionDate": "2025-10-12T11:00:00Z",
+    "suggest": {
+      "input": [
+        "World Geography Quiz Master"
+      ]
+    }
+  }
+]
