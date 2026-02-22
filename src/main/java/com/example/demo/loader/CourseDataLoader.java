@@ -39,7 +39,7 @@ public class CourseDataLoader implements ApplicationRunner {
         indexOps.createWithMapping();
         log.info("Created 'courses' index with mapping from Course entity.");
 
-        // Loading the sample data sample-course ko read karne ko 
+        // Loading the sample data sample-course file read karne ko 
         ObjectMapper objectMapper = new ObjectMapper();
         InputStream inputStream = new ClassPathResource("sample-courses.json").getInputStream();
         List<Course> courses = objectMapper.readValue(inputStream, new TypeReference<List<Course>>() {

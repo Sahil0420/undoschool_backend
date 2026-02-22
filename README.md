@@ -92,11 +92,9 @@ curl -s "http://localhost:8080/api/search?category=Art&type=CLUB"
 
 ### 4.4. Range Filters (Price & Age)
 Filters numerical ranges for price, and ensures the target course min/max age overlaps appropriately.
-```bash
-# Courses between $20 and $50
-curl -s "http://localhost:8080/api/search?minPrice=20&maxPrice=50"
 
-# Courses appropriate for 12-to-14-year-olds
+```bash
+curl -s "http://localhost:8080/api/search?minPrice=20&maxPrice=50"
 curl -s "http://localhost:8080/api/search?minAge=12&maxAge=14"
 ```
 
